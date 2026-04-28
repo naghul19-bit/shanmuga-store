@@ -1,1 +1,1 @@
-Deploy from branch
+your-image.jpg
